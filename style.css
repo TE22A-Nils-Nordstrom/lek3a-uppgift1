@@ -1,0 +1,31 @@
+body{
+
+    background-image: url(img/showcase.jpg);
+}
+
+.yellowbox{
+    background-color: yellow;
+    border: 2px black solid;
+    text-align: center;
+    font-family: monospace;
+    color: blue;
+    height: 1px;
+    padding-bottom: 60px;
+}
+
+.article{
+    
+    background-color: rgb(211,211,211);
+    border: black solid 2px;
+    margin: 2%;
+    height: 100%;
+}
+
+.articletext{
+    padding-left: 2%;
+    padding-right: 4%;
+}
+
+.centertext{
+    text-align: center;
+}
