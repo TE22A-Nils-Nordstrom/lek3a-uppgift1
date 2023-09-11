@@ -3,14 +3,15 @@ body{
     background-image: url(img/showcase.jpg);
 }
 
+
+
 .yellowbox{
     background-color: yellow;
     border: 2px black solid;
     text-align: center;
-    font-family: monospace;
     color: blue;
-    height: 1px;
-    padding-bottom: 60px;
+    height: 0px;
+    padding-bottom: 65px;
 }
 
 .article{
@@ -28,4 +29,10 @@ body{
 
 .centertext{
     text-align: center;
+}
+
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
